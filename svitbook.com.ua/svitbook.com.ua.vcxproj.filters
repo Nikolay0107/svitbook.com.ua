@@ -16,5 +16,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="index.html" />
+    <None Include="index_ru.html" />
   </ItemGroup>
 </Project>
