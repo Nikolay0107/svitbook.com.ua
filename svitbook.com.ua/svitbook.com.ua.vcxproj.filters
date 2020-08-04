@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\css">
+      <UniqueIdentifier>{43cb2312-9228-41ba-931b-d8d1289028a2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="index.html" />
@@ -20,5 +23,8 @@
     <None Include="send.php" />
     <None Include="thanks.html" />
     <None Include="call_form.php" />
+    <None Include="all.css">
+      <Filter>Source Files\css</Filter>
+    </None>
   </ItemGroup>
 </Project>
