@@ -18,5 +18,6 @@
     <None Include="index.html" />
     <None Include="index_ru.html" />
     <None Include="send.php" />
+    <None Include="thanks.html" />
   </ItemGroup>
 </Project>
